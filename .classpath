@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.aop-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.aop-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.asm-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.asm-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.aspects-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.aspects-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.beans-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.beans-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.context.support-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.context.support-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.context-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.context-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.core-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.core-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.expression-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.expression-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.instrument.tomcat-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.instrument.tomcat-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.instrument-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.instrument-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.jdbc-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/org.springframework.jdbc-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.jms-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.jms-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.orm-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.oxm-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.oxm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.test-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.test-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.transaction-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.transaction-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.portlet-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.portlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.servlet-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.struts-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web.struts-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web-3.0.5.RELEASE.jar" sourcepath="F:/Third_Jar/spring3.0.5/lib/spring3.0.5-dist/org.springframework.web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/spring3.0.5/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="F:/Third_Jar/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
